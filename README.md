@@ -17,7 +17,7 @@ The following functionality is completed:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Demo]](https://www.loom.com/share/56a7a4b97b224e7783f917dc8211b0c0) .
+[Demo](https://www.loom.com/share/56a7a4b97b224e7783f917dc8211b0c0) .
 
 ## App Brainstorming (Step 4)
 ### Sleeper
