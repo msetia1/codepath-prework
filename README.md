@@ -30,7 +30,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 - Easy to use UI with low latency
 - Swiping to get to different screens
 
-**My App** \\
+**My App**  
 My app idea is a payment distribution app for groceries. The app will allow users to take a picture of a receipt, use computer vision to read and then parse the receipt, and then the user will be provided with an itemized list of the items found on the receipt. The user can have friends on the app and can then assign certain items to a friend and (if there is Venmo integration) send a Venmo request. This was an idea I had this year when my roommates and I kept having to manually tally up the groceries that we bought for each other and charge each other the proper amount.
 
 ## Notes
